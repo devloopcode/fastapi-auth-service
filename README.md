@@ -1,6 +1,6 @@
 # FastAPI Authentication API
 
-A production-ready authentication backend built with **FastAPI**, **PostgreSQL**, **Redis**, and **Docker**. Clean architecture, fully async, and ready for real-world deployment.
+Authentication backend built with **FastAPI**, **PostgreSQL**, **Redis**, and **Docker**. Clean architecture, fully async.
 
 ---
 
