@@ -243,7 +243,7 @@ Client
 
 ---
 
-## Production Checklist
+<!-- ## Production Checklist
 
 - [ ] Set `SECRET_KEY` to 32+ random chars (`openssl rand -hex 32`)
 - [ ] Set `DEBUG=false` and `ENVIRONMENT=production`
@@ -252,4 +252,4 @@ Client
 - [ ] Run `alembic upgrade head` before starting containers
 - [ ] Place a TLS-terminating reverse proxy (nginx / Caddy) in front of the API
 - [ ] Set Docker resource limits
-- [ ] Configure log aggregation (Loki, Datadog, etc.)
+- [ ] Configure log aggregation (Loki, Datadog, etc.) -->
